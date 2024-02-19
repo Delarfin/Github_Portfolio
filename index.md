@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[London Map Project](/sample_page)
+[London Map Project]([/sample_page](https://storymaps.arcgis.com/stories/5d4c576725f8405586a9add3d1ad9717))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
