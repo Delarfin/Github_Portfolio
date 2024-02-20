@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[GIS Project](/pdf/Rosenstiel_Wildfire_Paper.pdf)
+[Statistics Project](/pdf/Rosenstiel_Wildfire_Paper.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
