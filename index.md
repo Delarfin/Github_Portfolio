@@ -8,7 +8,7 @@
 <img src="images/London Taxi.jpg?raw=true"/>
 
 ---
-[Python Project](/pdf/sample_presentation.pdf)
+[GIS Project](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
