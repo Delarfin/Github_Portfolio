@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[London Map Project](https://storymaps.arcgis.com/stories/5d4c576725f8405586a9add3d1ad9717)(/pdf/London_Tube_Traveling.pdf)
+[London Map Project](/pdf/London_Tube_Traveling.pdf)
 
 ---
 [GIS Project](/pdf/Rosenstiel_GIS.pdf)
