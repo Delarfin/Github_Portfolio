@@ -8,13 +8,12 @@
 <img src="images/London Taxi.jpg?raw=true"/>
 
 ---
-[GIS Project](/pdf/sample_presentation.pdf)
+[GIS Project](/pdf/Rosenstiel_GIS.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[GIS Project](/pdf/Rosenstiel_Wildfire_Paper.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Category Name 2
