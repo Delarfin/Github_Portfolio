@@ -9,16 +9,15 @@
 
 ---
 [GIS Project](/pdf/Rosenstiel_GIS.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Statistics Project](/pdf/Rosenstiel_Wildfire_Paper.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Category Name 2
 
-- [London Tourist Map](https://storymaps.arcgis.com/stories/5d4c576725f8405586a9add3d1ad9717)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
