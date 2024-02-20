@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [London Map Project]([/(https://storymaps.arcgis.com/stories/5d4c576725f8405586a9add3d1ad9717))
-<img src="images/London Taxi.jpeg?raw=true"/>
+<img src="images/London Taxi.jpg?raw=true"/>
 
 ---
 [Python Project](/pdf/sample_presentation.pdf)
