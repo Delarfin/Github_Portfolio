@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [London Map Project](https://storymaps.arcgis.com/stories/5d4c576725f8405586a9add3d1ad9717)
 
@@ -15,12 +15,9 @@
 
 ---
 
-### Category Name 2
+### Map
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [![Colorado Historic Landmarks](images/http://example.com/)
 
 ---
 
