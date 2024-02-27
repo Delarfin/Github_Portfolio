@@ -17,7 +17,7 @@
 
 ### Map
 
-- [![Colorado Historic Landmarks](images/http://example.com/)
+- [![Colorado Historic Landmarks](images/Colorado_Landmarks.png)](https://uok.maps.arcgis.com/home/item.html?id=cf5a2b09fa8041b8a50bb085a447e319)
 
 ---
 
